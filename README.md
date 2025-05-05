@@ -1,9 +1,7 @@
 <h1>Hi, I'm Josh! Cybersecurity Analyst
 
-<h2>👨‍💻  My Projects:</h2>
+## My Azure / Cloud Projects:
 
-- <b>Azure / Cloud Projects </b>
-  - [Creating a live SOC/Honeynet in Azure]([https://github.com/joshcybersec/joshcybersec](https://github.com/joshcybersec/Azure-Soc))
     
 ## 👨‍💻 SOC/Honeynet Project
 - **[Creating A Live SOC/Honeynet In Azure](https://github.com/joshcybersec/Azure-Soc)**
