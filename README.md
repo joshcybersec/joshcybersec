@@ -4,6 +4,9 @@
 
 - <b>Azure / Cloud Projects </b>
   - [Creating a live SOC/Honeynet in Azure]([https://github.com/joshcybersec/joshcybersec](https://github.com/joshcybersec/Azure-Soc))
+    
+## 👨‍💻 SOC/Honeynet Project
+- **[Creating a live SOC/Honeynet in Azure](https://github.com/joshcybersec/joshcybersec)(https://github.com/joshcybersec/Azure-Soc)**
 
 ## ⚠️ Vulnerability Management Projects
 
